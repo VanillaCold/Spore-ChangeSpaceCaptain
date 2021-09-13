@@ -1,0 +1,4 @@
+<mod displayName="Change Captain" unique="chocice75changecaptaininspacestagemod" description="This mod adds a cheat that changes the player's captain in the space stage." installerSystemVersion="1.0.1.1" hasCustomInstaller="false" dllsBuild="2.5.20">
+	<prerequisite>ChangeCaptain.dll</prerequisite>
+	<prerequisite game="GalacticAdventures">!!!Chocice75_ChangeCaptain.package</prerequisite>
+</mod>
